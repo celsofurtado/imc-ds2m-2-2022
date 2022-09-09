@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IMC 2.0</string>
+    <string name="calculate">Calculadora</string>
+    <string name="bmi">IMC</string>
+    <string name="login">Autenticar</string>
+    <string name="your_email">Seu e-mail</string>
+    <string name="your_pass">Sua senha</string>
+    <string name="new_user">Criar uma conta</string>
+    <string name="logo_name">SENAI</string>
+    <string name="add_new_user">Add new user</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="create_user">Create user</string>
+    <string name="question_text">Vamos calcular o seu Índice de Massa Corporal agora?</string>
+    <string name="result_text">Este é o resultado do seu IMC</string>
+    <string name="under_weight">Abaixo do peso</string>
+    <string name="ideal_weight">Peso Ideal</string>
+</resources>
